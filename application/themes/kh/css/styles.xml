@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<styles version="1.0">
+    <set name="Colors">
+        <style name="Primary Color" variable="primary" type="color" />
+        <style name="Secondary Color" variable="secondary" type="color" />
+
+        <style name="Gray Dark Color" variable="gray-dark" type="color" />
+        <style name="Gray Color" variable="gray" type="color" />
+        <style name="Gray Light Color" variable="gray-light" type="color" />
+    </set>
+    <set name="Text color">
+        <style name="Text Color" variable="text" type="color" />
+        <style name="Text Color Primary" variable="text-primary" type="color" />
+    </set>
+</styles>

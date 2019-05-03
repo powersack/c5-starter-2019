@@ -1,0 +1,42 @@
+#verignSnippetsFormWrapper{
+    padding: 20px;
+    border: 1px solid darkgray;
+    margin-bottom: 30px;
+}
+
+#verignSnippetsFormWrapper .verignSnippetsForm{
+
+}
+#verignSnippetsFormWrapper .verignSnippetsForm div{
+    margin: 10px 0;
+}
+#verignSnippetsFormWrapper .verignSnippetsForm > div {
+
+}
+
+#verignSnippetsFormWrapper .verignSnippetsForm > div textarea{
+    width: 100%;
+    min-height: 100px;
+}
+
+
+
+table#snippetList{
+
+    border: 1px solid darkgray;
+}
+
+table#snippetList tbody tr:nth-child(2n){
+    background: rgba(201,212,222,0.3);
+}
+
+table#snippetList tbody tr:hover{
+    background: rgba(201,212,222,0.7);
+}
+
+table#snippetList tr td,
+table#snippetList tr th{
+    padding: 10px;
+    max-width: 300px;
+    word-break: break-all;
+}
